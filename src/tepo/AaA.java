@@ -3,6 +3,6 @@ package tepo;
 public class AaA {
 	int a;
 	
-	int b=1;
+	int b=2;
 	
 }
